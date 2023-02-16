@@ -1,6 +1,6 @@
 # Using_python_data_analysis
 
-노트북 가방을 생산하는 기업에서 생산전략 분석을 의뢰하였다.
+노트북 케이스를 생산하는 기업에서 생산전략 분석을 의뢰하였다.
 검색자료는 '네이버 데이터랩'을 통해 얻었으며, python을 통해 분석하였다.
 
 ![성별별노트북검색량](https://user-images.githubusercontent.com/118033064/219250124-a67955f8-bcb7-4d4b-b71a-9813e8611b29.png)
